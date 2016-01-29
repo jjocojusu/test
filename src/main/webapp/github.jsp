@@ -32,7 +32,7 @@
 
 	<body>
 
-		<div class="title">Github 실습 3</div>
+		<div class="title">Github 실습 6</div>
  
      
 	</body>
